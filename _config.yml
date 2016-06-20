@@ -1,0 +1,28 @@
+name: Cindy & Tammy's Birthday Trip
+favicon: null
+layout_spectrum: 0.5464147778693587
+typography_spectrum: 0.7746226305607706
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4123726033139974
+  lightness: 0.22210750519298017
+  saturation: 0.7014619810506701
+  rhythmicContrast: 0.41720691067166626
+purpose: []
